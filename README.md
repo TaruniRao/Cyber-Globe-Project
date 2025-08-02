@@ -1,5 +1,4 @@
-# Cyber-Globe-Project
-Abstract 
+# Cyber-Globe-Project 
 Network traffic visualization plays a vital role in analyzing data flow, detecting anomalies, and 
 optimizing performance. This project proposes a Google Maps-based visualization system 
 that maps real-time network traffic data, including IP addresses, latency, and bandwidth 
